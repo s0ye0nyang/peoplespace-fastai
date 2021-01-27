@@ -3,4 +3,4 @@ pandas==1.1.5
 fastai==2.2.5
 fastbook==0.0.16
 tornado==6.1.0
-
+nbconvert==5.6.1
